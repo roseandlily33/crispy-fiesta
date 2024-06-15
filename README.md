@@ -1,2 +1,3 @@
 # crispy-fiesta
-Free Code Camp Salon Appointment
+Free Code Camp Salon Appointment Project
+
